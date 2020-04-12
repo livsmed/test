@@ -7,6 +7,7 @@ int main(void){
 	k=2;
 
 	i=j+k;
+	i*=10;
 
 
 	
